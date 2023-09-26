@@ -1,0 +1,5 @@
+1. Our team has a discord server, this is our primary form of communication. Our backup communication method will be github with mobile applications.
+2. Expectations for timeliness of replies: messages will be checked either before the end of the night or by the next morning 
+3. No restrictions of @everyone 
+4. When a question is asked it will be answered as best it can by anyone who is available, by multiple people if necessary.
+5. kickoff meetings will be monday at 9pm, stand up at 3:15 on tue&thur, 30min synchronous slots on tue&thur at 4pm, sprint review at 9pm sat
